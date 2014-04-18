@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Testgoogle::Application.config.secret_key_base = 'dd1242781030f9565e0c973e89727abc9315ae1e4d2fe7bd092bf8ca1d5dd1fc4202ae478d9be45608af3e3cb42d6dfefe6d17a007befeb540d98fbbe0009aea'
+Testgoogle::Application.config.secret_key_base = 'f382c8b34870ee6a47149f71356217110ba195382d9e9c4233e977e9bea812bfa2275fa7b8ebd48c1057bc21fe96edc5433bcba91cbbce5ab45a7daad3a918c5'
